@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Fully functional calculator workspace with glowing neon interfaces.
+  name: scientific-calculator-neon version: 1.0 type: Repository author: VarshuAi description: >   Fully functional calculator workspace with glowing neon interfaces. primary_tech: CSS
 primary_tech: CSS
 ```
 
